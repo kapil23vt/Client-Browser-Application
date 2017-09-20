@@ -54,18 +54,3 @@ serverSocket.close()
 
 #Terminate the program after sending the corresponding data
 sys.exit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
